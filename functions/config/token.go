@@ -5,7 +5,7 @@ const (
 	APP_TOKEN = "xapp-1-A05QP0V6SKX-5839371371029-5ccfe0e1b135ef4e2f752ad148007ab0fbfb84555428d8987949dd0231cb53a9" // required for socket mode
 
 	// if below line is uncommented, dialogflowcx,json must be present at the location relative to root
-	CREDENTIALS_PATH     = "functions/config/dialogflowcx.json"
+	CREDENTIALS_PATH     = "/functions/config/dialogflowcx.json"
 	//CREDENTIALS_PATH = ""
 
 	SLACK_SIGNING_SECRET = "2a71a7cc3819b077538b63151b7af04b"
