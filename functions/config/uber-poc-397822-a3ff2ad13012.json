@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uber-poc-397822",
+  "private_key_id": "a3ff2ad1301226c75b87df8fb9e21beec7f1659e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrLDadT3jINSWG\nbgPd1fB80ddn3TTDcS1uqpHdr5L7PwiDOgPzFxf3ZsXqr0xU0UzTIjzdyarhQYtS\nKSdi/Py+B+12cxcYFHho+eVaYzYKuDeTtTYL+fL9gjA2+dNJs1XwAQlppyk5mowT\n4bMsQkzKlyd21ctJ/aYiH9FNTs5jjRlkx93dTf0RF2GyI68k/md6sA59c1E6uosV\nGT47SIdR71ppIZLu/xvzWR3xTGoJr5koWOfu4ypsBpksswbZJE0guZ0ltE4fltWG\nNuqZj6nZYbMFcE860qxpQkvTr2Az+XbIsj7D5FnSoWdG7Rvmctn/1t4NRQ701jN+\nGab5gJRpAgMBAAECggEAEM8ZrzRTqbgWWZofb78Hi6pWRdEiJ6MgkVfXVSFdr1B5\nodv7m/kuQFGWU+fSThieO7QxV/JAK+NHhCedwjRnuV2GmHV61MGF2taCCvCSflZS\nwYLaWNi7Cjao920XA4tvKqS0wOxKZGlkd2YC4JtuIQ2GMZQ9uflaQXWbFHANsmwf\nqBpF490kuW56wNPV/2inR6r04JuGvKl7pkBq1cC8jOpBgvF6EsOyU8ZYaM3dku7q\ndyV1o/z7pja7oNEqOmI5PThVW6F/qWKOnXxfedvYbJVlRY7iSX6B7UBC4K/j68gP\nD6mi9DfaT0WouTEGsWUQs/eMRcH+dqbHRrbfw+vBtQKBgQDrMzM0jDu9YX7TCmdx\n4/XGVQG0twTnMP4tqTFdM7VV/BOqnB/ok158XzSrVRYp5o3kQiNCw9tX6UdxTx6n\nNgBlsh+xQqPIbdTNs8EKa+M0tbd46SDvSxsXjdh/leOOr+WbsE4RphAwSuZ5Zl0T\n6An9lzXFDAc9MnTtqIa8fVNixwKBgQC6T3hkfqfpQ7jnJlbq5zcCl18QZsZge9Z5\nQBgMEB4qhUgXmd2FAn5N5SF7x6AqR8mss9OgaqoQ43jtQA1qznDdEnBKUnZ5x1yz\nsHNRcdB8SEgL7gdGrOXQS6WeicTLElbBh2XqS3LsSwsAzeqjN/OyWTY69p+SigSK\nBW86nrkfTwKBgQCjcCfD+zLELgy4UEGEBfnTAV03G/r/QK9QQYM5FeaLwqhT5TvT\nHR0KZgouiOjm4vx0wnTIP1ubolJv7aAKZ98sy/Nz9S/k5lV7P88EE+aFyUSec7nc\nLx+7ZWktd5XyoE54urH1V6VmOZYghD5nx9Wxb7MAo5QgNYDFaVd/gcNBHwKBgQCy\n8o+9XpWijAR2KDIFr4z7tS5+z2gs1eU7Up+GPpjq2FdVK9lD3xA3eyO9AxFIauk/\nMv3KL4knbYUBw6rfcmefPw2RpUDcWOsmQA2TJZFNPhPNOZPNg1W8ylvKOaNGNVgU\nzBrMfilk4fMwk5eRq7UrEVrwKV89XclcVDnwgPFoKwKBgDVcLafpI9368KEibJ6P\nyOcE1qQ1IG7orswv7kS5Wen6wxX/nJfInGKhdgQZJtilbHTZmzBpAU2Tg71zpWPI\nBTlWq+TFoUNfcuUx5NWrEtgTPCaLjnnCcSWHMlS+g+n/obC3bYYrIVemcT7V3R4K\nGQg/0sVbHRF48s0Gp6xuX2Nt\n-----END PRIVATE KEY-----\n",
+  "client_email": "new-key@uber-poc-397822.iam.gserviceaccount.com",
+  "client_id": "115071918700853893296",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-key%40uber-poc-397822.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
