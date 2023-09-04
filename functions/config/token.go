@@ -6,7 +6,7 @@ const (
 
 	// if below line is uncommented, dialogflowcx,json must be present at the location relative to root
 	//CREDENTIALS_PATH     = "/functions/config/dialogflowcx.json"
-	//CREDENTIALS_PATH = ""
+	CREDENTIALS_PATH = ""
 
 	SLACK_SIGNING_SECRET = "2a71a7cc3819b077538b63151b7af04b"
 	// set this to false when url verification is not yet done
