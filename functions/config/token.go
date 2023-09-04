@@ -11,6 +11,6 @@ const (
 	SLACK_SIGNING_SECRET = "4f57242cc30e4afe92c5b69389c2448d"
 	// set this to false when url verification is not yet done
 	//VERIFY_SECRET = true
-	PROJECT_ID = "df-project-397410"
-	AGENT_NAME = "projects/df-project-397410/locations/global/agents/4e83649d-451d-4872-b72b-44cd62e4946d"
+	PROJECT_ID = "uber-poc-397822"
+	AGENT_NAME = "projects/uber-poc-397822/locations/global/agents/95c6a58e-3d5f-4fd1-8ab6-09cf8b2b7828"
 )
